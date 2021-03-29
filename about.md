@@ -3,13 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
+More to come later, but putting this blog together to track my chess progress. Will likely expand to other things in the future.
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
